@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Full-Stack Developer with over 3 years of experience in the IT sector, specializing in the development of web applications and advanced industrial systems, with a focus on database management and optimization as well as PageSpeed. Excellent team player with strong organizational skills
+Full-stack developer with experience in web application development and software system integration. My main focus is on backend development and server-side architectures, overseeing all stages of the project from analysis to deployment, with a focus on system efficiency and clean code.
 
 ## 💻 Front-End Stack
 
